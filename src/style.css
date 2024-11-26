@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+.crochetBlanket {
+  margin: 60px 0;
+}
+.embroideryhoop {
+  margin: 60px 0;
+}
+.diamondart {
+  margin: 60px 0;
+}
+
+@media (max-width: 400px ) {
+  .crochetBlanket {
+    width: 50%;
+  }
+  .diamondart {
+    width: 50%;
+  }
+}
