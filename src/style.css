@@ -1,4 +1,24 @@
+body {
+  background-color: #ffd3b6 !important;
+}
+
+h1, h2, h3 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  font-family: "Parkinsans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
 h1 {
+  text-align: center;
+}
+h3 {
   text-align: center;
 }
 .crochetBlanket {
@@ -18,4 +38,13 @@ h1 {
   .diamondart {
     width: 50%;
   }
+}
+button {
+  border-radius: 10px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background-color: #ffaaa5;
+  color: #fcf8f3;
+  border: none;
 }
