@@ -21,6 +21,15 @@ h1 {
 h3 {
   text-align: center;
 }
+button {
+  border-radius: 10px;
+  padding: 20px 15px;
+  text-decoration: none;
+  text-transform: capitalize;
+  background-color: #ffaaa5;
+  color: #fcf8f3;
+  border: none;
+}
 .crochetBlanket {
   margin: 60px 0;
 }
@@ -39,12 +48,14 @@ h3 {
     width: 50%;
   }
 }
-button {
-  border-radius: 10px;
-  padding: 20px 15px;
+.about-me {
+  text-align: center;
+}
+.fa {
+  padding: 20px;
+  margin: 20px 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
   text-decoration: none;
-  text-transform: capitalize;
-  background-color: #ffaaa5;
-  color: #fcf8f3;
-  border: none;
 }
