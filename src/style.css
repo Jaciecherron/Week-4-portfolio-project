@@ -1,3 +1,7 @@
+:root {
+  --third-color: #698474; 
+}
+
 body {
   background-color: #ffd3b6 !important;
 }
@@ -17,7 +21,7 @@ p {
 }
 h1 {
   text-align: center;
-  color:#698474 
+  color:var(--third-color) 
 }
 h3 {
   text-align: center;
@@ -31,13 +35,7 @@ button {
   color: #fcf8f3;
   border: none;
 }
-.crochetBlanket {
-  margin: 60px 0;
-}
-.embroideryhoop {
-  margin: 60px 0;
-}
-.diamondart {
+.crochetBlanket, .embroideryhoop, .diamondart {
   margin: 60px 0;
 }
 
@@ -59,12 +57,12 @@ button {
   width: 30px;
   text-align: center;
   text-decoration: none;
-  color: #698474;
+  color: var(--third-color);
 }
 
 .email-link {
   text-decoration: none;
-  color:#698474 ;
+  color:var(--third-color) ;
 }
 .email-link:hover {
   color:#ffaaa5;
