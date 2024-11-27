@@ -68,3 +68,6 @@ button {
 .email-link:hover {
   color:#ffaaa5;
 }
+.img-fluid {
+  margin: 100px 5px;
+}
