@@ -58,4 +58,13 @@ button {
   width: 30px;
   text-align: center;
   text-decoration: none;
+  color: #698474;
+}
+
+.email-link {
+  text-decoration: none;
+  color:#698474 ;
+}
+.email-link:hover {
+  color:#ffaaa5;
 }
