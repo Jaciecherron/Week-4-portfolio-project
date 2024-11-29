@@ -21,7 +21,7 @@ p {
 }
 h1 {
   text-align: center;
-  color:var(--third-color) 
+  color:var(--third-color); 
 }
 h3 {
   text-align: center;
@@ -62,7 +62,7 @@ button {
 
 .email-link {
   text-decoration: none;
-  color:var(--third-color) ;
+  color:var(--third-color);
 }
 .email-link:hover {
   color:#ffaaa5;
