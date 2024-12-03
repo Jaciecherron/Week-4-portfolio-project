@@ -47,9 +47,7 @@ button {
     width: 50%;
   }
 }
-.about-me {
-  text-align: center;
-}
+
 .fa {
   padding: 20px;
   margin: 20px 20px;
@@ -67,6 +65,6 @@ button {
 .email-link:hover {
   color:#ffaaa5;
 }
-.img-fluid {
-  margin: 100px 5px;
+.profile {
+  width: 300px;
 }
